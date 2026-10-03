@@ -1,0 +1,46 @@
+MemoCalendar（纪念日日历） 更新日志
+作者：Chippress
+
+v2.1-friendly (2026-10-03)
+- 改用 jpackage 打包（Java 25），避免找不到 JVM 的问题。
+
+v2.1.0 （2026-08-31）
+- 重构代码，优化了各窗口和对话框开关的逻辑。
+- 新增支持新建和选择不同的日历数据。
+- 几乎无 AI 生成内容。
+
+v2.0.0 （2026-08-28）
+- 基于 AWT/Swing（Java 11）开发，完全重构。
+- 新增支持单击日期直接编辑该日信息。
+- 几乎无 AI 生成内容。
+
+v0.1.x （2026-01-23）
+- 试验版本。
+- 基于 EasyX（C++14）开发。
+- 实现纪念日日历基础功能。
+- 极少使用 AI 生成内容。
+
+------
+
+MemoCalendar Changelog
+Author: Chippress
+
+v2.1-friendly (2026-10-03)
+- Packaged with jpackage (Java 25) to avoid the "No JVM could be found" issue.
+
+v2.1.0 (2026-08-31)
+- Rebuilt source code, improving the logic of opening and closing the windows and dialogs.
+- Added support for creating and choosing different calendar documents within this app.
+- Almost no AIGC.
+
+v2.0.0 (2026-08-28)
+- Completely rebuilt based on AWT/Swing (Java 11).
+- Added support for direct information editing by clicking on a date.
+- Almost no AIGC.
+- Only breads for some meals while developing.
+
+v0.1.x (2026-01-23)
+- Experimental release.
+- Developed with EasyX (C++14).
+- Implemented basic anniversary calendar features.
+- Contains minimal AIGC.

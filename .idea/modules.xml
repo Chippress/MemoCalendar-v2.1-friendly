@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MemoCalendar v2.1-friendly.iml" filepath="$PROJECT_DIR$/.idea/MemoCalendar v2.1-friendly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chprs/chprs.iml" filepath="$PROJECT_DIR$/chprs/chprs.iml" />
+    </modules>
+  </component>
+</project>

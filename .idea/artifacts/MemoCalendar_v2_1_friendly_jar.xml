@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MemoCalendar v2.1-friendly:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemoCalendar_v2_1_friendly_jar</output-path>
+    <root id="archive" name="MemoCalendar v2.1-friendly.jar">
+      <element id="module-output" name="chprs" />
+    </root>
+  </artifact>
+</component>
